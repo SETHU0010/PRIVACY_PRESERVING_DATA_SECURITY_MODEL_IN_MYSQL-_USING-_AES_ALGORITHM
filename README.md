@@ -33,15 +33,6 @@ Uses AES for data confidentiality in the cloud. Addresses privacy concerns with 
 
 Enhanced model using AES on the BYOEK platform. Advantages: increased performance, reliability, flexibility, security, and privacy.
 
-## Requirements 🛠️
-
-### Hardware Requirements
-- Processor: Pentium Dual Core 2.00GHz
-- Hard disk: 40 GB
-- RAM: 4 GB (minimum)
-- Mouse: Logitech
-- Keyboard: 110 keys enhanced
-
 ### Software Requirements
 - Operating System: Windows 7 (Service Pack 1), 8, and 10
 - Front End: HTML, CSS, Bootstrap, JavaScript
