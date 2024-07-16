@@ -1,46 +1,83 @@
+# Privacy Preserving Data Security Model in Cloud Using AES Algorithm 🔒☁️
 
-# PRIVACY PRESERVING DATA SECURITY MODEL IN MYSQL USING AES ALGORITHM
+## Abstract 📝
 
+Rapid growth of cloud computing for business purposes. Focus on securing sensitive data stored in the cloud using AES encryption. Ensures data integrity, confidentiality, and compliance.
 
-## Abstract
+## Motivation 🌟
 
+Protect sensitive information from unauthorized access. Use AES to enhance data security in cloud environments.
 
-New advances in cloud computing technology enable the rapid use of cloud platforms for business purposes, increasing day by day. Aggregating data about companies' transactions, communications, business model architecture, etc., a lot of other information is stored on cloud platforms. The security aspects of data stored in the cloud must be highly protected and accessible only by authentication. This system focuses on evaluating the integrity monitoring model of the cloud where security and data protection systems are checked using cryptographic algorithms. The proposed model is developed using the AES algorithm where input data is stored in the cloud on a Bring Your Own Encryption Key (BYOEK) platform. The safety of the BYOEK model has been evaluated and verified from the perspectives of execution time and data trading.
+## Aim 🎯
 
+Implement a robust data security model using AES. Address challenges in secure data transmission and storage in the cloud.
 
-## Motivation
-1. Safeguard sensitive information from unauthorized access using AES encryption.
-2. Protect data integrity, confidentiality, and compliance, instilling trust in cloud-based systems.
-## Aim
-The aim of our privacy-preserving data security model in the cloud, utilizing the AES algorithm, is to ensure robust protection of sensitive information by implementing encryption, privacy techniques, and compliance measures, addressing challenges in secure data transmission and storage.
-## Problem Statement
-Cloud computing is almost maintenance-free in terms of managing local storage. However, it becomes a potential security issue when the data owner outsources data to the cloud, as the cloud server is usually provided by an untrusted third party. With data being shared in a group of users, cloud computing faces the challenge of managing access control of the encrypted data.
-## Objectives
-1. Focus on cryptographic algorithms where input data is stored in the cloud on a BYOEK platform.
-2. Evaluate and verify the safety of the BYOEK model.
-Compare execution time and data trading for the given test model.
-## Scope of the Project
-The scope of the project is to provide a secure auditing method to store the data on the cloud securely.
-## Software Requirements
-1. Operating System: Windows 7 (Service Pack 1), 8, 10
-2. Front End: HTML, CSS, Bootstrap, JavaScript
-3. Coding Language: Java Servlets
-4. Backend: MySQL
-5. Software Tool: Eclipse
+## Problem Statement ❗
 
+Managing access control of encrypted data in the cloud. Security concerns when outsourcing data to untrusted third-party cloud servers.
 
-## Modules Description
-1. Data Owner:
-  Upload encrypted data to the cloud.
-  Manage encryption keys using the BYOEK model.
+## Objectives 📌
 
-2. Auditor:
-  Monitor data integrity and access logs.
+- Use cryptographic algorithms for data storage on the BYOEK platform.
+- Evaluate and verify the BYOEK model's safety and performance.
 
-3. Data User:
-Access and decrypt data with appropriate permissions.
+## Scope of the Project 🌐
 
-4. Admin:
-Oversee the entire system, manage users, and ensure compliance.
-## Contact
-For any inquiries or feedback, please contact sethumadhavanvelu2002@gmail.com.
+Provide a secure method for auditing and storing data in the cloud.
+
+## Existing System 🔄
+
+Uses AES for data confidentiality in the cloud. Addresses privacy concerns with strong encryption. Limitations: low performance, flexibility, security, increased cost, and privacy issues.
+
+## Proposed System 🚀
+
+Enhanced model using AES on the BYOEK platform. Advantages: increased performance, reliability, flexibility, security, and privacy.
+
+## Requirements 🛠️
+
+### Hardware Requirements
+- Processor: Pentium Dual Core 2.00GHz
+- Hard disk: 40 GB
+- RAM: 4 GB (minimum)
+- Mouse: Logitech
+- Keyboard: 110 keys enhanced
+
+### Software Requirements
+- Operating System: Windows 7 (Service Pack 1), 8, and 10
+- Front End: HTML, CSS, Bootstrap, JavaScript
+- Coding Language: Java Servlets
+- Backend: MySQL
+- Software Tool: Eclipse
+
+## Project Timeline 📅
+
+| Start Date   | End Date     | Description                         | Days |
+|--------------|--------------|-------------------------------------|------|
+| 03-01-2024   | 09-01-2024   | Choosing Title                      | 7    |
+| 10-01-2024   | 28-01-2024   | Literature Review and Research       | 19   |
+| 29-01-2024   | 02-02-2024   | Define Abstract, Objectives, Scope   | 5    |
+| 03-02-2024   | 07-02-2024   | Feasibility Study                   | 5    |
+| 08-02-2024   | 22-02-2024   | System Design and Architecture      | 15   |
+| 23-03-2024   | 17-03-2024   | Modules                             | 23   |
+| 18-03-2024   | 26-03-2024   | Designing User Interface            | 9    |
+| 27-03-2024   | 29-03-2024   | Implementation of AES Algorithm     | 3    |
+| 30-03-2024   | 31-03-2024   | Integration with Cloud Platform     | 2    |
+| 01-04-2024   | 05-04-2024   | Documentation for Review-2          | 5    |
+| 06-04-2024   | 10-04-2024   | Testing, Debugging                  | 5    |
+| 11-04-2024   | 20-04-2024   | Documentation and Report Writing    | 10   |
+| 21-04-2024   | 03-05-2024   | Finalizing the Project and Submission | 13   |
+
+## Modules Description 📦
+
+- **Data Owner Models:** Manage and upload data to the cloud.
+- **Auditor Models:** Ensure data integrity and security.
+- **Data User Models:** Access and use encrypted data.
+- **Admin Models:** Oversee system operations and security.
+
+## How to Run the Project 🚀
+
+1. Set up the hardware and software requirements.
+2. Clone the repository.
+3. Open the project in Eclipse.
+4. Configure the database settings in MySQL.
+5. Run the project and access it via the specified URL.
